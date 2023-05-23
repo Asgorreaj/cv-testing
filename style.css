@@ -1,0 +1,25 @@
+#job{
+    background-color: bisque;
+    color: rgb(101, 101, 238);
+    text-align: center;
+}
+#seeking{
+    background-color: cadetblue;
+    color: aquamarine;
+    font: optional;
+}
+.academic{
+    background-color: aqua;
+    padding: 5px 2px 2px 2px;
+}
+.bsc{
+    background-color: aquamarine;
+    padding: 5px 2px 2px 2px;
+}
+#work{
+    background-color: rgb(81, 150, 214);
+    text-align: right;
+    margin-top: auto;
+    margin-left: 6.5%;
+    margin-right: 75.5%;
+}
